@@ -1,6 +1,18 @@
 # 代理补充列表
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,translate.googleapis.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,dl.google.com.com
+DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,www.youtube.com
+DOMAIN-SUFFIX,freegpt.one
+DOMAIN-SUFFIX,k8slens.dev
+DOMAIN-SUFFIX,communication.playstation.net
+DOMAIN-SUFFIX,community.playstation.net
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,github.githubassets.com
 
 
 # 域名关键字匹配
