@@ -73,3 +73,59 @@ DOMAIN-SUFFIX,commerce.bing.com
 DOMAIN-SUFFIX,smetrics.binge.com.au
 DOMAIN-SUFFIX,smetrics.bingle.com.au
 DOMAIN-SUFFIX,t.prod1.discover.binge.com.au
+### netease
+DOMAIN-SUFFIX,da.netease.com
+DOMAIN-SUFFIX,pr.nss.netease.com
+### 163
+DOMAIN-SUFFIX,ac.dun.163.com
+DOMAIN-SUFFIX,analytics.163.com
+DOMAIN-SUFFIX,clientlog.music.163.com
+DOMAIN-SUFFIX,fp-upload.dun.163.com
+DOMAIN-SUFFIX,nex.163.com
+DOMAIN-SUFFIX,sentry.music.163.com
+DOMAIN-SUFFIX,timejs.game.163.com
+### meituan
+DOMAIN-SUFFIX,analytics.meituan.net
+DOMAIN-SUFFIX,report.meituan.com
+### 58
+DOMAIN,track.58.com
+DOMAIN-SUFFIX,apiwmda.58.com.cn
+DOMAIN-SUFFIX,poro.58.com
+DOMAIN-SUFFIX,stat-58home.58che.com
+DOMAIN-SUFFIX,tracklog.58.com
+### 360
+DOMAIN-SUFFIX,at.360.audion.fm
+DOMAIN-SUFFIX,eclick.360doc.com
+DOMAIN-SUFFIX,link-test.360vuz.com
+DOMAIN-SUFFIX,link.360vuz.com
+DOMAIN-SUFFIX,s.360.cn
+DOMAIN-SUFFIX,share2.360vuz.com
+DOMAIN-SUFFIX,smetrics.360dx.com
+DOMAIN-SUFFIX,t.360.audion.fm
+DOMAIN-SUFFIX,t.360playvid.info
+DOMAIN-SUFFIX,tf.360.cn
+DOMAIN-SUFFIX,track.360playvid.info
+### baidu
+DOMAIN,hmma.baidu.com
+DOMAIN-SUFFIX,dup.baidustatic.com
+DOMAIN-SUFFIX,fclog.baidu.com
+DOMAIN-SUFFIX,hm.baidu.com
+### jd
+DOMAIN-SUFFIX,app.communications.jdsu.com
+DOMAIN-SUFFIX,app.info.jdpa.com
+DOMAIN-SUFFIX,counter.jdi5.com
+DOMAIN-SUFFIX,dxpxgy.jdsports.com
+DOMAIN-SUFFIX,eokzre.jd-sports.com.au
+DOMAIN-SUFFIX,ezobam.jdsports.nl
+DOMAIN-SUFFIX,gia.jd.com
+DOMAIN-SUFFIX,gkfdkf.jdsports.co.uk
+DOMAIN-SUFFIX,hudhno.jdsports.es
+DOMAIN-SUFFIX,jprbql.jdsports.fr
+DOMAIN-SUFFIX,marketing.jdicleaning.com
+DOMAIN-SUFFIX,marketingforms.jdpa.com
+DOMAIN-SUFFIX,mdugiz.jdsports.de
+DOMAIN-SUFFIX,ohsyat.jdsports.it
+DOMAIN-SUFFIX,play.jdb888.club
+DOMAIN-SUFFIX,reyzol.jdsports.dk
+DOMAIN-SUFFIX,stats.jdheyburn.co.uk
+DOMAIN-SUFFIX,tqiwqa.jdsports.ie
