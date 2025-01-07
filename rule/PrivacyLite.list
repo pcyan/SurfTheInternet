@@ -1,0 +1,75 @@
+# SRC: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Privacy/Privacy.list
+# 从来源精简规则集
+#
+### tencent
+DOMAIN-SUFFIX,adstats.tencentmusic.com
+DOMAIN-SUFFIX,p.tencentmind.com
+### qq
+DOMAIN,safebrowsing.urlsec.qq.com
+DOMAIN-SUFFIX,beacon.cdn.qq.com
+DOMAIN-SUFFIX,beacon.qq.com
+DOMAIN-SUFFIX,beaconcdn.qq.com
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,monitor.music.qq.com
+DOMAIN-SUFFIX,mtrace.qq.com
+DOMAIN-SUFFIX,pingjs.qq.com
+DOMAIN-SUFFIX,rcgi.video.qq.com
+DOMAIN-SUFFIX,sngmta.qq.com
+DOMAIN-SUFFIX,stat.y.qq.com
+DOMAIN-SUFFIX,trace.qq.com
+### google
+DOMAIN,safebrowsing.googleapis.com
+DOMAIN-SUFFIX,ade.googlesyndication.com
+DOMAIN-SUFFIX,attributiontrackingga.googlecode.com
+DOMAIN-SUFFIX,clouderrorreporting.googleapis.com
+DOMAIN-SUFFIX,fcmatch.google.com
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,firebaselogging.googleapis.com
+DOMAIN-SUFFIX,video-ad-stats.googlesyndication.com
+### ali
+DOMAIN-SUFFIX,a8.aliceandolivia.jp
+DOMAIN-SUFFIX,ali8.alinea.fr
+DOMAIN-SUFFIX,atanx.alicdn.com
+DOMAIN-SUFFIX,collect.alipay.com
+DOMAIN-SUFFIX,eulerian.alinea.fr
+DOMAIN-SUFFIX,fvuitt.alibabuy.com
+DOMAIN-SUFFIX,go.ali-cle.org
+DOMAIN-SUFFIX,gtreus.aliexpress.com
+DOMAIN-SUFFIX,images.go.alightsolutions.com
+DOMAIN-SUFFIX,images.info.alibabacloud.com
+DOMAIN-SUFFIX,marketing.alibaba.com
+DOMAIN-SUFFIX,metrics.alienware.com
+DOMAIN-SUFFIX,namcah.alipearlhair.com
+DOMAIN-SUFFIX,rd.alice.it
+DOMAIN-SUFFIX,rwlnfq.alindashop.ro
+DOMAIN-SUFFIX,stats.alibhai.co
+DOMAIN-SUFFIX,tce.alicdn.com
+DOMAIN-SUFFIX,tr.info.aliae.com
+DOMAIN-SUFFIX,tr.news.alibabuy.com
+DOMAIN-SUFFIX,tr.news.alinea.com
+DOMAIN-SUFFIX,tr.satisfaction.alinea.com
+DOMAIN-SUFFIX,tr.services.alinea.com
+DOMAIN-SUFFIX,trk.ali-cle.org
+### bilibili
+DOMAIN-SUFFIX,data.bilibili.com
+### microsoft
+DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com
+DOMAIN-SUFFIX,eu-mobile.events.data.microsoft.com
+DOMAIN-SUFFIX,fpt.microsoft.com
+DOMAIN-SUFFIX,oca.microsoft.com
+DOMAIN-SUFFIX,smetric.ads.microsoft.com
+DOMAIN-SUFFIX,vortex.data.microsoft.com
+DOMAIN-SUFFIX,watson.microsoft.com
+### taobao
+DOMAIN-SUFFIX,fourier.taobao.com
+DOMAIN-SUFFIX,guide-acs.taobao.com
+DOMAIN-SUFFIX,tns.simba.taobao.com
+### bing
+DOMAIN-SUFFIX,assets2.bingle.com.au
+DOMAIN-SUFFIX,axp.binghamtonhomepage.com
+DOMAIN-SUFFIX,bat.bing.com
+DOMAIN-SUFFIX,bat.bing.net
+DOMAIN-SUFFIX,commerce.bing.com
+DOMAIN-SUFFIX,smetrics.binge.com.au
+DOMAIN-SUFFIX,smetrics.bingle.com.au
+DOMAIN-SUFFIX,t.prod1.discover.binge.com.au
