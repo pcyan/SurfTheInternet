@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jetbrains.com.cn
 DOMAIN-SUFFIX,r2.cloudflarestorage.com
 DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,steamserver.net
 
 # 内网ip
 SRC-IP-CIDR,192.168.0.81/32,no-resolve
