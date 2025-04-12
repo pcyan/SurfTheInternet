@@ -12,14 +12,6 @@ DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,steamserver.net
 
-# 内网ip
-SRC-IP-CIDR,192.168.0.81/32,no-resolve
-SRC-IP-CIDR,192.168.0.94/32,no-resolve
-SRC-IP-CIDR,192.168.0.20/32,no-resolve
-SRC-IP-CIDR,192.168.0.100/32,no-resolve
-SRC-IP-CIDR,192.168.0.120/32,no-resolve
-
-
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
