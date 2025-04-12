@@ -1,0 +1,7 @@
+
+# 内网ip
+SRC-IP-CIDR,192.168.0.81/32,no-resolve
+SRC-IP-CIDR,192.168.0.94/32,no-resolve
+SRC-IP-CIDR,192.168.0.20/32,no-resolve
+SRC-IP-CIDR,192.168.0.100/32,no-resolve
+SRC-IP-CIDR,192.168.0.120/32,no-resolve
