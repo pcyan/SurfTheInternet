@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,r2.cloudflarestorage.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,pikpak.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
