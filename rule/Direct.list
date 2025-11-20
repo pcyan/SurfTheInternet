@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,zmk.pw
+DOMAIN-SUFFIX,zimuku.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
