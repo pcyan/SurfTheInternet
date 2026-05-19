@@ -1,0 +1,17 @@
+# 精简直连，放最前面，覆盖其他所有规则
+
+# MyList
+# 域名后缀匹配
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,jetbrains.com.cn
+DOMAIN-SUFFIX,r2.cloudflarestorage.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,zmk.pw
+DOMAIN-SUFFIX,zimuku.org
